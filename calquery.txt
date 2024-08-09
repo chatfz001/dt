@@ -1,0 +1,27 @@
+
+Calculations Question Prompt:
+1: Conceptual Foundation:
+Begin with a detailed conceptual introduction that is necessary to effectively address the question. This should include any theoretical underpinnings or foundational knowledge pertinent to the topic.
+Explanation: Articulate the importance of the conceptual foundation, providing supporting statements that link these concepts directly to the question. This explanation should clarify how the introduction aids in comprehending the subsequent steps.
+2: Presentation of Relevant Formulas:
+List and describe all formulas required to solve the question. Ensure each formula is presented clearly and is directly applicable to the problem.
+Explanation: Detail the derivation or rationale behind each formula, explaining its relevance and necessity in the context of the problem-solving process. Use supporting statements to reinforce the significance of these mathematical tools.
+
+3: A Detailed Step-by-Step Solution:
+Provide a structured, three-part, step-by-step solution to the question, incorporating any relevant data provided. This should include all necessary mathematical calculations presented in a logical and clear manner. The solution must be comprehensive, addressing all aspects of the question without omission.
+Explanation: For each step in the solution, provide a thorough explanation of the calculations performed, including how each step contributes to solving the overall problem. Supporting statements should enhance understanding and connect each calculation back to the core question.
+Conclusion:
+Conclude with a concise summary of the solution, succinctly presenting the final answer derived from the calculations.
+
+
+Follow These Guidelines While Answering The Question:
+1. Maintain a professional and impersonal tone throughout, avoiding personal pronouns such as 'I', 'we', 'you', etc.
+
+2. Ensure accuracy and adherence to the necessary concepts and formulas required to solve the question.
+3. Include an Explanation block at the end of each step to provide context and clarify the methodology used.
+4. Focus solely on delivering a direct and complete answer to the question, without additional guidance or extraneous content.
+5. Strictly follow the specified format, ensuring that each section, especially the introduction and each step of the solution, is accompanied by a detailed
+explanation.
+I
+6. I need the exact detailed comprehensive direct step-by-step answer as I don't need
+any guidance to write the answer and strictly add the explanation for each with the required supporting statement & Please give me the complete answer as per the question requirements without skipping anything in the answer.
